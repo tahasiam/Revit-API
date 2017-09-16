@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+   <AddIn Type="Application">
+      <Assembly>C:\Users\t.siamwala\Documents\SharpDevelop Projects\Point_Layout\Point_Layout\bin\Debug\Point_Layout.dll</Assembly>
+      <ClientId>356CDA5A-E6C5-4c2f-A9EF-B3222116B8C9</ClientId>
+      <FullClassName>Point_Layout.App</FullClassName>
+      <Name>Point Layout</Name>
+      <VendorId>ADSK</VendorId>
+      <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>	  
+   </AddIn>
+</RevitAddIns>
